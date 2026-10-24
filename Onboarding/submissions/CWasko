@@ -1,0 +1,35 @@
+# GitHub Onboarding Completion Submission
+
+Submission status: draft
+
+GitHub username: @your-github-username
+
+Work email: your.name@example.com
+
+Learning path completed: Learn_with_GitHub_Desktop or Learn_with_Git_Bash
+
+Final pull request or completion artifact: https://github.com/EKI-inc/github_intro/pull/YOUR-PR-NUMBER
+
+Completion date: YYYY-MM-DD
+
+Requested phase 1 access: Contributor
+
+Requested GitHub team slug: eki
+
+GitHub notifications configured: no
+
+Access context: Briefly describe the EKI repository, team, or project where access is needed.
+
+## Required Confirmations
+
+The AI policy references are in the employee handbook on the [HR SharePoint](https://appriver3651005659.sharepoint.com/sites/EKI-Intranet/SitePages/HR---Benefits---draft.aspx). See [Step 1 of the onboarding README](../README.md#step-1-policy-acknowledgment) for the full policy list.
+
+- [ ] I completed all lessons (0 through 5) in my chosen learning path in this repository.
+- [ ] I read and acknowledge the applicable EKI GitHub, cybersecurity, acceptable use, and LLM/AI-assisted development expectations.
+- [ ] I understand that I must not commit secrets, credentials, private keys, client confidential information, or other restricted materials.
+- [ ] I have two-factor authentication enabled on the GitHub account I will use for EKI work.
+- [ ] I configured GitHub notifications for the account I will use for EKI work.
+
+## Optional Notes
+
+Add anything a reviewer should know here.
